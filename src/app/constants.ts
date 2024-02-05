@@ -88,3 +88,17 @@ export const bottomMenu = [
   "EULA",
   "Contact Us",
 ];
+
+export const options = [
+  "Stock Video",
+  "Video Templates",
+  "Music",
+  "Sound Effects",
+  "Graphic Templates",
+  "Graphics",
+  "Presentation Templates",
+  "Photos",
+  "Fonts",
+  "Add-ons",
+  "More",
+];
